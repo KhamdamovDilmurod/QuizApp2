@@ -1,2 +1,2 @@
 # QuizApp
-  Simple quiz application
+  Quiz application
